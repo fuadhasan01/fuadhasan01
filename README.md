@@ -4,9 +4,9 @@
 
 I'm student of Computer Science And Engineering. I studied at United International University, Bangladesh.
 
-Skills: C / C++ / Java / JavaScript / HTML / CSS / Bootstrap / PHP / MSQL
+Skills: C / C++ / C# / Java / JavaScript / HTML / CSS / Bootstrap / PHP / MSQL / Asp.NET Core/ MVC 
 
-- 🌱 I’m currently learning Django 
+- 🌱 I’m currently learning Asp.net core 
 - 📫 How to reach me: By email labib.knc@gmail.com 
 
 
