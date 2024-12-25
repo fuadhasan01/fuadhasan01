@@ -8,13 +8,14 @@ I'm a **graduate of Computer Science and Engineering** from United International
 ---
 
 ## 🔧 Technical Skills:
-- **Programming Languages**: C#, JavaScript, PHP, C++
+- **Programming Languages**: C#, PHP, JavaScript, Java, C++
 - **Web Development**: ASP.NET, jQuery, AJAX, Bootstrap, Tailwind
 - **Database**: SQL Server, MySQL
-- **Version Control**: Git
+- **Version Control**: Git, GitHub
 - **Development Tools**: Visual Studio, Visual Studio Code
 - **Testing**: Selenium WebDriver
 - **Methodologies**: Agile(Scrum), Waterfall
+- **Management Tools**: Jira
 - **Other Skills**: Object-Oriented Programming (OOP), MVC Architecture, Basic Knowledge of Linux Commands
 
 ---
