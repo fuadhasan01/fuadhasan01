@@ -31,7 +31,7 @@ I am enhancing my expertise in **ASP.NET Core** and working on real-world softwa
 ---
 
 ## 💼 Professional Experience:
-- **Software Development Intern at Pakiza Software LTD** (Oct 2024 – Present):  
+- **Software Engineer at Pakiza Software LTD** (Oct 2024 – Present):  
   - Working on an **Inventory Management Project** using ASP.NET, jQuery, and AJAX.  
   - Responsibilities include feature development, debugging, implementing front-end interactions, and improving database integration.
 ---
