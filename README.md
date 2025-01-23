@@ -21,7 +21,7 @@ I'm a **graduate of Computer Science and Engineering** from United International
 ---
 
 ## 🌱 Currently Learning:
-I am enhancing my expertise in **ASP.NET Core** and working on real-world software solutions during my internship.
+I am enhancing my expertise in **ASP.NET Core** and working on real-world software solutions.
 
 ---
 
