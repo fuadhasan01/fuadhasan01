@@ -3,7 +3,7 @@
 
 ![Software Engineer](https://static.vecteezy.com/system/resources/thumbnails/039/885/399/small_2x/software-development-life-cycle-banner-web-icon-illustration-concept-of-sdlc-with-icon-of-planning-requirements-design-coding-testing-deploy-and-maintenance-vector.jpg)
 
-I'm a **graduate of Computer Science and Engineering** from United International University, Bangladesh, with a strong passion for building innovative and scalable software solutions.
+I am a **Software Engineer** specializing in ASP.NET, with a Bachelor's degree in Computer Science and Engineering from United International University, Bangladesh. I am passionate about building innovative, scalable, and efficient software solutions that solve real-world problems and drive business value.
 
 ---
 
