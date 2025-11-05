@@ -21,7 +21,7 @@ I am a **Software Engineer** specializing in ASP.NET, with a Bachelor's degree i
 ---
 
 ## 🌱 Currently Learning:
-I am enhancing my expertise in **ASP.NET Core** and working on real-world software solutions.
+Angular
 
 ---
 
