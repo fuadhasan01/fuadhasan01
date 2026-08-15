@@ -48,38 +48,42 @@ I've solved **500+ algorithmic problems** on LeetCode and HackerRank not for the
 
 ## Projects
 
+**EduSubmit**  
+A full-stack assignment and submission management platform designed for Admin, Teacher, and Student workflows.
+
+- Backend designed using Clean Architecture, Domain-Driven Design (DDD), CQRS, MediatR, domain events, and explicit business rules
+- Implemented JWT authentication and role-based authorization
+- Assignment management, student submissions, grading, class enrollment, and subject management
+- Angular 20 frontend using Standalone Components, Signals, Reactive Forms, RxJS, and SCSS
+- PostgreSQL integration with Entity Framework Core and RESTful APIs for frontend-backend communication
+
+`ASP.NET Core 9` `Angular 20` `Entity Framework Core` `PostgreSQL` `MediatR` `CQRS` `DDD` `JWT` `FluentValidation` · [Live Demo](https://edusubmit-web-gamma.vercel.app/login) · [GitHub](https://github.com/fuadhasan01/EduSubmitAPI)
+
+---
+
+**LibraryMS**  
+A full-stack library management platform supporting multi-branch library operations and role-based workflows.
+
+- JWT authentication and role-based authorization for Admin, Librarian, and Member roles
+- Book, member, branch, and branch-level inventory management
+- Borrow/return workflows, reservations, fine handling, and library reports
+- Applied Clean/Onion Architecture with Repository, Unit of Work, Dependency Injection, and FluentValidation
+- Centralized exception handling, Serilog logging, Swagger/OpenAPI, Docker support, and automated tests
+
+`ASP.NET Core 9` `Angular 14` `Entity Framework Core` `PostgreSQL` `JWT` `FluentValidation` `Serilog` `Docker` · [Backend GitHub](https://github.com/fuadhasan01/LibraryManagementSystemAPI) · [Frontend GitHub](https://github.com/fuadhasan01/LibraryManagementSystemFrontend)
+
+---
+
 **Mini Account Management System**  
 A web-based platform for managing financial records with structured role-based access control.
 
-- Role-based system supporting Admin, Accountant, and Viewer access levels  
-- Hierarchical Chart of Accounts with full voucher management and auto debit/credit balancing  
-- Financial reporting — Trial Balance, Voucher Summary — with Excel export  
-- Authentication and authorization via ASP.NET Core Identity  
+- Implemented role-based user management with Admin, Accountant, and Viewer access levels
+- Designed a hierarchical Chart of Accounts
+- Implemented voucher management with automatic debit/credit balancing
+- Generated financial reports including Trial Balance and Voucher Summary with Excel export
+- Secured authentication and authorization using ASP.NET Core Identity
 
 `ASP.NET Core 8` `Razor Pages` `SQL Server` `Stored Procedures` `Bootstrap 5` `jQuery` · [GitHub](https://github.com/fuadhasan01/MiniAccountApp) · [Live Demo](http://mincountapp.somee.com)
-
----
-
-**Purchase Order Management Module**  
-A fully functional PO module built with Angular 17+ and a mock REST API backend.
-
-- PO listing with search, filtering, sorting, and pagination  
-- Dynamic create/edit forms using Reactive FormArray for line items  
-- Auto-calculation of subtotal, VAT, and grand total with real-time validation  
-- TypeScript interfaces and modular structure for maintainable, scalable code  
-
-`Angular 17+` `TypeScript` `Reactive Forms` `Ngx-Bootstrap` `json-server` · [GitHub](https://github.com/fuadhasan01/Purchase-Order-Module)
-
----
-
-**ArtPatio** — *UIU Project Show Champion*  
-A digital art gallery platform connecting artists and collectors.
-
-- User authentication, artist profiles, virtual exhibitions, and favorites  
-- Auction system, event management, ticket sales, and in-app currency  
-- Admin panel with submission workflows and content moderation  
-
-`ASP.NET MVC` `SQL Server` `JavaScript` · [GitHub](https://github.com/fuadhasan01/ArtPatio_dotnet)
 
 ---
 
