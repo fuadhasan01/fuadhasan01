@@ -31,7 +31,7 @@ I've solved **500+ algorithmic problems** on LeetCode and HackerRank not for the
 
 ## Experience
 
-**Jr. Full Stack Software Engineer** · Efficient Software Solutions LTD · *Oct 2025 – Present*
+**Full Stack Software Engineer** · Efficient Software Solutions LTD · *Sep 2025 – Present*
 - Design and maintain RESTful APIs using ASP.NET Core for secure, efficient data communication
 - Build Angular applications with Reactive Forms, RxJS, and reusable component architecture
 - Optimize API response handling and reduce data load through efficient query design
